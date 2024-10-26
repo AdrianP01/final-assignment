@@ -1,0 +1,47 @@
+/* src/styles/App.css */
+
+
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  
+  .cocktail-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    background-color: #fafafa;
+    border-radius: 8px;
+  }
+  
+  
+  .cocktail-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  
+  .cocktail-card h2 {
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  
+  .cocktail-card p,
+  .cocktail-card ul {
+    text-align: left;
+    font-size: 0.9em;
+  }
+  
+  
+  button,
+  input[type="text"] {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
